@@ -1,2 +1,3 @@
-# Reestructuracion-LC
-Reestructuracion de La licenciatura en Comunicacion 2025
+# Reestructuración Curricular de la Licenciatura en Comunicación UJAT/2025
+
+En Febrero de 2025 se inició la reestructuración del Plan de Estudios de la Licenciatura en comunicación como parte de un programa integral de la Universidad Juárez Autonoma de Tabasco para actualización de los pregrados acorde a un renovado Modelo Educativo que atendiera las politicas nacionales impulsadas por la llamada "Nueva Escuela Mexicana". En este proyecto se refleja el paso a paso de este largo proceso que reclama trabajo colegiado, análisis de los escenarios sociales,estudio de las políticas educativas, el estudio sobre los derroteros actuales de la profesion y un amplio sentido de proyección a futuro sobre escenarios comunicativos emergentes.
